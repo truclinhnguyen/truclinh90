@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+{
+	margin: 0;
+	padding:0;
+}
+#text1 {
+	margin-left: 45%;
+    margin-bottom:50px;
+	margin-top: 5%;
+}
+.card-deck{
+	margin-top: 5%;
+}
+.sp{
+	padding-top: 5%;
+}
+.sooo{
+	margin-left: 45%;
+
+}
+.ytb{
+		margin-top: 5%;
+}
+#hello{
+	margin-top: 5%;
+}
+.bando{
+	margin-top: 5%;
+	
+}
+
+.hi{
+	margin-top: 5%;
+	background-color: darkgray;
+}
+	
